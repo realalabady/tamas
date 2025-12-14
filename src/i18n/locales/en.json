@@ -1,0 +1,145 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "projects": "Our Projects",
+      "services": "Services",
+      "team": "Our Team",
+      "quote": "Request Quote",
+      "contact": "Contact"
+    },
+    "hero": {
+      "subtitle": "Engineering Excellence",
+      "title": "Building Tomorrow's",
+      "titleHighlight": "Saudi Arabia",
+      "description": "Premier construction and real estate development company delivering landmark projects across the Kingdom with precision, innovation, and uncompromising quality.",
+      "cta": "Request a Quote",
+      "ctaSecondary": "View Projects",
+      "stats": {
+        "projects": "Projects Completed",
+        "years": "Years Experience",
+        "rating": "Client Rating"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "Building Excellence Since Establishment",
+      "description": "Saudi Tamas Building Company stands as a beacon of engineering excellence in the Kingdom's construction landscape. We specialize in transforming architectural visions into enduring structures that define Saudi Arabia's modern infrastructure.",
+      "vision": {
+        "title": "Our Vision",
+        "description": "To be the most trusted construction partner in Saudi Arabia, delivering projects that exceed expectations and contribute to the Kingdom's Vision 2030."
+      },
+      "values": {
+        "title": "Our Values",
+        "items": {
+          "excellence": "Engineering Excellence",
+          "integrity": "Integrity & Trust",
+          "innovation": "Innovation",
+          "safety": "Safety First"
+        }
+      },
+      "experience": {
+        "title": "Proven Experience",
+        "educational": "Educational Projects",
+        "commercial": "Commercial Projects",
+        "transport": "Transport & Infrastructure"
+      }
+    },
+    "projects": {
+      "title": "Our Projects",
+      "subtitle": "Landmark Developments",
+      "description": "Explore our portfolio of distinguished projects that showcase our commitment to quality and innovation across diverse sectors.",
+      "viewDetails": "View Details",
+      "categories": {
+        "all": "All Projects",
+        "educational": "Educational",
+        "commercial": "Commercial",
+        "transport": "Transport"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive Construction Solutions",
+      "description": "From concept to completion, we offer end-to-end construction and development services tailored to meet the unique requirements of each project.",
+      "items": {
+        "construction": {
+          "title": "Construction & Execution",
+          "description": "Full-scale construction services utilizing advanced methodologies and premium materials to deliver structures of lasting quality."
+        },
+        "management": {
+          "title": "Project Management",
+          "description": "Expert oversight ensuring projects are delivered on time, within budget, and to the highest standards of quality."
+        },
+        "procurement": {
+          "title": "Procurement & Logistics",
+          "description": "Strategic sourcing and supply chain management to optimize costs while maintaining quality standards."
+        },
+        "infrastructure": {
+          "title": "Infrastructure Development",
+          "description": "Large-scale infrastructure projects including roads, utilities, and public facilities that serve communities."
+        }
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Leadership & Expertise",
+      "description": "Our success is driven by a dedicated team of professionals who bring decades of combined experience to every project."
+    },
+    "quote": {
+      "title": "Request a Quote",
+      "subtitle": "Let's Build Together",
+      "description": "Share your project vision with us, and our team will provide a comprehensive proposal tailored to your requirements.",
+      "form": {
+        "name": "Full Name",
+        "company": "Company Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "projectType": "Project Type",
+        "message": "Project Details",
+        "submit": "Submit Request",
+        "projectTypes": {
+          "residential": "Residential",
+          "commercial": "Commercial",
+          "educational": "Educational",
+          "infrastructure": "Infrastructure",
+          "industrial": "Industrial",
+          "other": "Other"
+        }
+      },
+      "success": "Thank you! We'll be in touch within 24 hours."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Get in Touch",
+      "description": "We're here to answer your questions and discuss your next project.",
+      "address": {
+        "title": "Address",
+        "value": "8531 Al Mustashar, Al Aziziyah District, 2676, Jeddah 23334"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "012 668 0442"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "value": "Sunday - Thursday: 8:00 AM - 5:00 PM"
+      },
+      "location": {
+        "title": "Location",
+        "value": "Al Aziziyah Trading Centre, Jeddah"
+      }
+    },
+    "footer": {
+      "description": "Premier construction and real estate development company delivering excellence across Saudi Arabia.",
+      "quickLinks": "Quick Links",
+      "contactInfo": "Contact Info",
+      "followUs": "Follow Us",
+      "rights": "All rights reserved."
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for doesn't exist or has been moved.",
+      "back": "Back to Home"
+    }
+  }
+  
